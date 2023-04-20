@@ -8,7 +8,7 @@ Evaluation of expressions
 Random puzzle selection from a text file
 
 ## Requirements
-```C Compiler (e.g., GCC, Clang)```
+C Compiler (e.g., GCC, Clang)
 
 ## Installation
 1. Clone the repository:
