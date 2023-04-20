@@ -12,7 +12,7 @@ C Compiler (e.g., GCC, Clang)
 
 ## Installation
 1. Clone the repository:
-```git clone https://github.com/yourusername/TwentyFourPartTwo.git```
+```git clone https://github.com/juebenjamin/TwentyFour-2.git```
 2. Navigate to the project directory:
 ```cd TwentyFourPartTwo```
 3. Compile the program:
