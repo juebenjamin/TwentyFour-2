@@ -16,7 +16,7 @@ This is a C implementation of the TwentyFour Part Two game where the player is g
 2. Navigate to the project directory:
 ```cd TwentyFourPartTwo```
 3. Compile the program:
-```gcc -o twentyfour main.c```
+```gcc -o twentyfour TwentyFour2.c```
 
 ## Usage
 1. Run the complied program:
