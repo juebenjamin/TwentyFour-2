@@ -2,13 +2,13 @@
 This is a C implementation of the TwentyFour Part Two game where the player is given a set of four numbers and the goal is to use basic mathematical operations (+, -, *, /) to get a result of 24. The player must use each number exactly once.
 
 ## Features
-Three difficulty levels: easy, medium, and hard
-Validation of user input
-Evaluation of expressions
-Random puzzle selection from a text file
+* Three difficulty levels: easy, medium, and hard
+* Validation of user input
+* Evaluation of expressions
+* Random puzzle selection from a text file
 
 ## Requirements
-C Compiler (e.g., GCC, Clang)
+* C Compiler (e.g., GCC, Clang)
 
 ## Installation
 1. Clone the repository:
