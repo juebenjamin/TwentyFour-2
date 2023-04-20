@@ -1,3 +1,4 @@
+# Twenty-Four 2
 This is a C implementation of the TwentyFour Part Two game where the player is given a set of four numbers and the goal is to use basic mathematical operations (+, -, *, /) to get a result of 24. The player must use each number exactly once.
 
 ## Features
