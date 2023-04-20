@@ -16,10 +16,10 @@ This is a C implementation of the TwentyFour Part Two game where the player is g
 2. Navigate to the project directory:
 ```cd TwentyFourPartTwo```
 3. Compile the program:
-```gcc -o twentyfour TwentyFour2.c```
+```gcc -o twentyfour2 TwentyFour2.c```
 
 ## Usage
 1. Run the complied program:
-```./twentyfour```
+```./twentyfour2```
 2. Follow the prompts to select a difficulty level and enter your solution.
 3. To exit the program, choose the "exit" option when prompted.
